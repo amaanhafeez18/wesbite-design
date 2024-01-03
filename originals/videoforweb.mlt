@@ -1,0 +1,776 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="7.13.0" title="Shotcut version 22.12.21" producer="main_bin">
+  <profile description="PAL 4:3 DV or DVD" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" frame_rate_den="1" colorspace="709"/>
+  <producer id="producer0" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Documents/.Western subjects/CS1033/Files Assignment 3 1033/webassign/images for video/hunza-valley-travel-guide-1030x687.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">3dd6f69a3639bc0d743e5a86b8d9f56d</property>
+    <property name="creation_time">2023-03-29T21:31:30</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Documents/.Western subjects/CS1033/Files Assignment 3 1033/webassign/images for video/Baltit_Fort,_Karimabad,_Hunza_I.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">50a267e2eb639c1794cd8f49db5177c2</property>
+    <property name="creation_time">2023-03-29T21:39:07</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">Baltit_Fort,_Karimabad,_Hunza_I.jpg</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Documents/.Western subjects/CS1033/Files Assignment 3 1033/webassign/images for video/Altit_Fort_-_Hunza_Valley.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">8131f9fe8c8461b0e5aefd5a934ef2c2</property>
+    <property name="creation_time">2023-03-29T21:44:39</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">Altit_Fort_-_Hunza_Valley.jpg</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Documents/.Western subjects/CS1033/Files Assignment 3 1033/webassign/images for video/baskochi-meadows-descent-1030x687.jpg.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">d886bba065f719394f1759b676663231</property>
+    <property name="creation_time">2023-03-29T21:38:06</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Documents/.Western subjects/CS1033/Files Assignment 3 1033/webassign/images for video/fr.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">58630928920e12908744f6df79cd92a2</property>
+    <property name="creation_time">2023-03-29T21:26:38</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">fr.jpg</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer5" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Documents/.Western subjects/CS1033/Files Assignment 3 1033/webassign/images for video/GettyImages-593703807-5fedcbc1978c47d78fa1e575268baeb0.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">387d025d1e253bdeb6219d51c975ae11</property>
+    <property name="creation_time">2023-03-29T21:30:47</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">GettyImages-593703807-5fedcbc1978c47d78fa1e575268baeb0.jpg</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer6" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Documents/.Western subjects/CS1033/Files Assignment 3 1033/webassign/images for video/Places-to-visit-in-Sindh.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">2964759a8d88b8c9b937381162f2ab82</property>
+    <property name="creation_time">2023-03-29T21:46:08</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">Places-to-visit-in-Sindh.jpg</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer7" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Documents/.Western subjects/CS1033/Files Assignment 3 1033/webassign/images for video/Some-Of-The-Top-Places-To-Visit-in-Sindh.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">302ec6b57c9bf70baed1d0e4bec764f3</property>
+    <property name="creation_time">2023-03-29T21:45:29</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">Some-Of-The-Top-Places-To-Visit-in-Sindh.jpg</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer8" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Documents/.Western subjects/CS1033/Files Assignment 3 1033/webassign/images for video/images.jpeg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">26555aa8ae9789413849de9c0b13b6b4</property>
+    <property name="creation_time">2023-03-29T21:45:48</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">images.jpeg</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer9" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Documents/.Western subjects/CS1033/Files Assignment 3 1033/webassign/images for video/Tourism-within-Interior-Sindh-696x392.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">b9e703099a9f1571362b9b28c3998a6e</property>
+    <property name="creation_time">2023-03-29T21:45:11</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">Tourism-within-Interior-Sindh-696x392.jpg</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer10" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Documents/.Western subjects/CS1033/Files Assignment 3 1033/webassign/images for video/Rani_Kort_Wall_&amp;_Forte_View.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">812557d3a26c8ff227e93de353f45206</property>
+    <property name="creation_time">2023-03-29T22:23:36</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">Rani_Kort_Wall_&amp;_Forte_View.jpg</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer11" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Documents/.Western subjects/CS1033/Files Assignment 3 1033/webassign/images for video/PK_Keenjhar_Lake_near_Thatta_asv2020-02_img4.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">2d2b151d8ef5d08bb2991820175f4242</property>
+    <property name="creation_time">2023-03-29T18:39:52</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">PK_Keenjhar_Lake_near_Thatta_asv2020-02_img4.jpg</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer12" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Documents/.Western subjects/CS1033/Files Assignment 3 1033/webassign/images for video/Places-to-visit-in-Sindh.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">2964759a8d88b8c9b937381162f2ab82</property>
+    <property name="creation_time">2023-03-29T21:46:08</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">Places-to-visit-in-Sindh.jpg</property>
+    <property name="ignore_points">0</property>
+  </producer>
+  <producer id="producer13" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Documents/.Western subjects/CS1033/Files Assignment 3 1033/webassign/images for video/Places-to-visit-in-Sindh.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">2964759a8d88b8c9b937381162f2ab82</property>
+    <property name="creation_time">2023-03-29T21:46:08</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">Places-to-visit-in-Sindh.jpg</property>
+    <property name="ignore_points">0</property>
+  </producer>
+  <playlist id="main_bin" title="Shotcut version 22.12.21">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer8" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer9" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer10" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer11" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer12" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer13" in="00:00:00.000" out="00:00:03.960"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:00:30.400">
+    <property name="length">00:00:30.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:00:30.400"/>
+  </playlist>
+  <producer id="producer14" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Documents/.Western subjects/CS1033/Files Assignment 3 1033/webassign/images for video/Baltit_Fort,_Karimabad,_Hunza_I.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">50a267e2eb639c1794cd8f49db5177c2</property>
+    <property name="creation_time">2023-03-29T21:39:07</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">Baltit_Fort,_Karimabad,_Hunza_I.jpg</property>
+    <property name="ignore_points">0</property>
+    <filter id="filter0" out="00:00:03.480">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-26.8814 -222 1943.05 1296 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+    <filter id="filter1" out="00:00:03.480">
+      <property name="argument"></property>
+      <property name="geometry">192 108 1536 864 1</property>
+      <property name="family">Sans</property>
+      <property name="size">48</property>
+      <property name="weight">400</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">0x000000ff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">0x00000000</property>
+      <property name="pad">0</property>
+      <property name="halign">left</property>
+      <property name="valign">top</property>
+      <property name="outline">0</property>
+      <property name="pixel_ratio">1</property>
+      <property name="mlt_service">qtext</property>
+      <property name="shotcut:filter">richText</property>
+      <property name="html">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'SeasideResortNF'; font-size:72pt; font-weight:600; color:#ffffff;&quot;&gt;Sights of Pakistan&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter2" out="00:00:03.480">
+      <property name="argument"></property>
+      <property name="geometry">338 918 1413 452 1</property>
+      <property name="family">Sans</property>
+      <property name="size">48</property>
+      <property name="weight">400</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">0x000000ff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">0x00000000</property>
+      <property name="pad">0</property>
+      <property name="halign">left</property>
+      <property name="valign">top</property>
+      <property name="outline">0</property>
+      <property name="pixel_ratio">1</property>
+      <property name="mlt_service">qtext</property>
+      <property name="shotcut:filter">richText</property>
+      <property name="html">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'SeasideResortNF'; font-size:72pt; font-weight:600; color:#ffffff;&quot;&gt;Part 1: Northern sights&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter3" out="00:00:03.480">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.960=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:01.000</property>
+    </filter>
+  </producer>
+  <producer id="producer15" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Documents/.Western subjects/CS1033/Files Assignment 3 1033/webassign/images for video/hunza-valley-travel-guide-1030x687.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">3dd6f69a3639bc0d743e5a86b8d9f56d</property>
+    <property name="creation_time">2023-03-29T21:31:30</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">hunza-valley-travel-guide-1030x687.jpg</property>
+    <filter id="filter4" in="00:00:04.000" out="00:00:07.960">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-56.8996 -108 1988.03 1326 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+    <filter id="filter5" in="00:00:04.000" out="00:00:07.960">
+      <property name="argument">Pictured above is the Hunza Valley</property>
+      <property name="geometry">362 540 1180 540 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">left</property>
+      <property name="valign">bottom</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="disable">0</property>
+    </filter>
+  </producer>
+  <producer id="producer16" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Documents/.Western subjects/CS1033/Files Assignment 3 1033/webassign/images for video/baskochi-meadows-descent-1030x687.jpg.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">d886bba065f719394f1759b676663231</property>
+    <property name="creation_time">2023-03-29T21:38:06</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">baskochi-meadows-descent-1030x687.jpg.webp</property>
+    <filter id="filter6" out="00:00:03.960">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-14.917 -210 1961.05 1308 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+    <filter id="filter7" out="00:00:03.960">
+      <property name="argument">Pictured above is the Kalash Valley</property>
+      <property name="geometry">439 535 1038 540 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">left</property>
+      <property name="valign">bottom</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="disable">0</property>
+    </filter>
+  </producer>
+  <tractor id="tractor0" in="00:00:00.000" out="00:00:00.720">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer15" in="00:00:07.240" out="00:00:07.960"/>
+    <track producer="producer16" in="00:00:00.000" out="00:00:00.720"/>
+    <transition id="transition0" out="00:00:00.720">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition1" out="00:00:00.720">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer17" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Documents/.Western subjects/CS1033/Files Assignment 3 1033/webassign/images for video/fr.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">58630928920e12908744f6df79cd92a2</property>
+    <property name="creation_time">2023-03-29T21:26:38</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">fr.jpg</property>
+    <property name="ignore_points">0</property>
+  </producer>
+  <producer id="producer18" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Documents/.Western subjects/CS1033/Files Assignment 3 1033/webassign/images for video/GettyImages-593703807-5fedcbc1978c47d78fa1e575268baeb0.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">387d025d1e253bdeb6219d51c975ae11</property>
+    <property name="creation_time">2023-03-29T21:30:47</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">GettyImages-593703807-5fedcbc1978c47d78fa1e575268baeb0.jpg</property>
+    <property name="ignore_points">0</property>
+    <filter id="filter8" out="00:00:03.960">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-47 -127.232 2013.78 1334.46 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <producer id="producer19" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Documents/.Western subjects/CS1033/Files Assignment 3 1033/webassign/images for video/Tourism-within-Interior-Sindh-696x392.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">b9e703099a9f1571362b9b28c3998a6e</property>
+    <property name="creation_time">2023-03-29T21:45:11</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">Tourism-within-Interior-Sindh-696x392.jpg</property>
+    <property name="ignore_points">0</property>
+    <filter id="filter9" out="00:00:03.200">
+      <property name="argument"></property>
+      <property name="geometry">270 785 1509 974 1</property>
+      <property name="family">Sans</property>
+      <property name="size">48</property>
+      <property name="weight">400</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">0x000000ff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">0x00000000</property>
+      <property name="pad">0</property>
+      <property name="halign">left</property>
+      <property name="valign">top</property>
+      <property name="outline">0</property>
+      <property name="pixel_ratio">1</property>
+      <property name="mlt_service">qtext</property>
+      <property name="shotcut:filter">richText</property>
+      <property name="html">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'SeasideResortNF'; font-size:72pt; font-weight:600; color:#ffffff;&quot;&gt;PArt 2, Southern Sights&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <producer id="producer20" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Documents/.Western subjects/CS1033/Files Assignment 3 1033/webassign/images for video/Places-to-visit-in-Sindh.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">2964759a8d88b8c9b937381162f2ab82</property>
+    <property name="creation_time">2023-03-29T21:46:08</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">Places-to-visit-in-Sindh.jpg</property>
+    <property name="ignore_points">0</property>
+  </producer>
+  <producer id="producer21" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Documents/.Western subjects/CS1033/Files Assignment 3 1033/webassign/images for video/Rani_Kort_Wall_&amp;_Forte_View.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">812557d3a26c8ff227e93de353f45206</property>
+    <property name="creation_time">2023-03-29T22:23:36</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">Rani_Kort_Wall_&amp;_Forte_View.jpg</property>
+    <property name="ignore_points">0</property>
+    <filter id="filter10" in="00:00:01.160" out="00:00:02.760">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-137 -192.209 2194.24 1464.42 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <producer id="producer22" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Documents/.Western subjects/CS1033/Files Assignment 3 1033/webassign/images for video/PK_Keenjhar_Lake_near_Thatta_asv2020-02_img4.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">2d2b151d8ef5d08bb2991820175f4242</property>
+    <property name="creation_time">2023-03-29T18:39:52</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">PK_Keenjhar_Lake_near_Thatta_asv2020-02_img4.jpg</property>
+    <property name="ignore_points">0</property>
+    <filter id="filter11" out="00:00:03.520">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-96 12 2112 1056 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="disable">0</property>
+    </filter>
+    <filter id="filter12" out="00:00:03.520">
+      <property name="argument">Created by: ahafeez7</property>
+      <property name="geometry">960 540 960 540 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">right</property>
+      <property name="valign">bottom</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="disable">0</property>
+    </filter>
+  </producer>
+  <producer id="producer23" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Documents/.Western subjects/CS1033/Files Assignment 3 1033/webassign/images for video/PK_Keenjhar_Lake_near_Thatta_asv2020-02_img4.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">2d2b151d8ef5d08bb2991820175f4242</property>
+    <property name="creation_time">2023-03-29T18:39:52</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">PK_Keenjhar_Lake_near_Thatta_asv2020-02_img4.jpg</property>
+    <property name="ignore_points">0</property>
+    <filter id="filter13" in="00:00:02.760" out="00:00:02.800">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-96 12 2112 1056 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <tractor id="tractor1" in="00:00:00.000" out="00:00:00.000">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer22" in="00:00:03.520" out="00:00:03.520"/>
+    <track producer="producer23" in="00:00:02.760" out="00:00:02.760"/>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition3">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer14" in="00:00:00.000" out="00:00:03.480"/>
+    <entry producer="producer15" in="00:00:04.000" out="00:00:07.200"/>
+    <entry producer="tractor0" in="00:00:00.000" out="00:00:00.720"/>
+    <entry producer="producer16" in="00:00:00.760" out="00:00:03.960"/>
+    <entry producer="producer17" in="00:00:00.000" out="00:00:03.160"/>
+    <entry producer="producer18" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer19" in="00:00:00.000" out="00:00:03.200"/>
+    <entry producer="producer20" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer21" in="00:00:01.160" out="00:00:02.760"/>
+    <entry producer="producer22" in="00:00:00.000" out="00:00:03.480"/>
+    <entry producer="tractor1" in="00:00:00.000" out="00:00:00.000"/>
+    <entry producer="producer23" in="00:00:02.800" out="00:00:02.800"/>
+  </playlist>
+  <chain id="chain0" out="00:06:06.120">
+    <property name="length">00:06:06.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/amanq/Downloads/Tera Nasha Nasha Akhan Vich  Amar Jalal  Tera Nasha HD Video Song.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="creation_time">2023-03-29T22:29:32</property>
+    <property name="shotcut:hash">a9d68ce51b27f1b9ce83f49ac8581137</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">Tera Nasha Nasha Akhan Vich  Amar Jalal  Tera Nasha HD Video Song.mp3</property>
+    <property name="xml">was here</property>
+    <filter id="filter14" in="00:01:49.920" out="00:02:20.280">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:00.000=-60;00:00:01.920=0</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeInVolume</property>
+      <property name="shotcut:animIn">49</property>
+    </filter>
+    <filter id="filter15" in="00:01:49.920" out="00:02:20.280">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:27.120=0;00:00:30.360=-60</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="shotcut:animOut">82</property>
+    </filter>
+  </chain>
+  <playlist id="playlist1">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <entry producer="chain0" in="00:01:49.920" out="00:02:20.280"/>
+  </playlist>
+  <tractor id="tractor2" title="Shotcut version 22.12.21" in="00:00:00.000" out="00:00:30.400">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="shotcut:scaleFactor">0.691472</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1" hide="video"/>
+    <transition id="transition4">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition5">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition6">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+  </tractor>
+</mlt>
